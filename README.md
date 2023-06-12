@@ -2,7 +2,7 @@
 * Pablo Gómez García 
 *  act.pablogomez@hotmail.com
 # Revisores
-* Revisor 1: Dra. Magali Arellano Vázquez
+* Revisor 1: Dra. Magali Arellano Vázquez 
 * Revisor 2: Dr. José Ortiz Béjar
 
 # Entregables
